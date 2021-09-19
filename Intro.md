@@ -15,6 +15,7 @@ Here's my reason why I chose cComputer Science?
 
 - More job offerings.
 - It seems interesting.
+- I actually enjoy making websites and it seems kinda fun. :)
 - MONEY, MONEY, MONEY! :)
 
 STAN DAY6 
