@@ -3,4 +3,4 @@
 <assign> -> <var> = <exp>
 <exp> -> <exp> <opt> <exp> | <exp> <opt> <var> | <var> <opt> <var>
 <opt> -> + | *
-<var> _> A | B | C
+<var> -> A | B | C
