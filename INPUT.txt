@@ -1,0 +1,2 @@
+v4r 12j+ej !  Helo : 3
+result = (x-value) / 100;
